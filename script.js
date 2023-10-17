@@ -1,4 +1,5 @@
 //your code here
+let str = ['The Virupaksha Temple', 'Victoria Memorial', 'Tajmahal'];
 let withoutArticles=[];
 let map={};
 for(let i=0;i<arr.length;i++)
